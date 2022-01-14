@@ -8,4 +8,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhiyaaamalia00&theme=radical)
 
 **How I Work**
-Motivasi, melakukan sebuah pekerjaan tidak hanya dilihat dari seberapa penting dan bagaimana cara membagi waktu diantara pekerjan yang lain, tetapi juga alasan melakukan sebuah pekerjaan itu akan membuat kita menjadi lebih bersemangat dan maksimal dalam melanyelesaikan pekerjaan. I always remember that what you get is equal with what you give. 
+\nMotivasi, melakukan sebuah pekerjaan tidak hanya dilihat dari seberapa penting dan bagaimana cara membagi waktu diantara pekerjan yang lain, tetapi juga alasan melakukan sebuah pekerjaan itu akan membuat kita menjadi lebih bersemangat dan maksimal dalam melanyelesaikan pekerjaan. I always remember that what you get is equal with what you give. 
