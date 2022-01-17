@@ -46,7 +46,6 @@
 <a href = "https://www.instagram.com/dhiyaaamalia_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-<br/>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
